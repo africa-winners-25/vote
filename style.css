@@ -32,7 +32,6 @@ body {
 /* Styles de la page d'introduction */
 
 .intro-page {
-    background-image: url('images/bg.jpg');
     /* Ajoute une image de fond cool */
     background-size: contain;
     background-position: center;
@@ -274,4 +273,5 @@ header {
     box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3);
 
 }
+
 
