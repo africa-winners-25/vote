@@ -1,9 +1,10 @@
 const totalVotes = {
-    'MANOUTON JUNIOR': 29,
+    'MANOUTON JUNIOR': 31,
     'IKA IMONLE': 20,
     "BEAU L'EUROPEEN": 29,
 
 };
+
 
 
 
